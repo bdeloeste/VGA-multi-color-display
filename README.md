@@ -5,7 +5,11 @@ VGA-multi-color-display
 
 Single module containing:
 -----------------------
-*VGA controller (640 x 480)
-*7-segment display:
-  -Shows RGB values, respectively
-*12-bit LED counter (.01 sec count)
+<ul style="list-style-type:disc">
+  <li>VGA controller (640 x 480)
+  <li>7-segment display:
+    <ul>
+      <li>Shows RGB values, respectively
+    </ul>
+  <li>12-bit LED counter (.01 sec count)
+</ul>
