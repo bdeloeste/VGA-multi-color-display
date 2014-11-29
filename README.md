@@ -1,7 +1,7 @@
 VGA-multi-color-display
 =======================
 
-12-bit resolution RGB colors display
+12-bit resolution RGB colors display implemented on Nexys-4 board
 
 Single module containing:
 -----------------------
